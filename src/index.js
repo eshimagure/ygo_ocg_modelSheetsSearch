@@ -27,7 +27,7 @@ root.render(
         <p style={{fontSize:"0.8em"}}>
             ※画像クリックで別窓表示されます。<br/>
             ※公式Xのpostからデータを引用しているため、元postが削除された場合こちらのデータも消えます。<br/>
-            ※こちらは継続的な保守・更新予定はありません。コードをGitHubに公開しているので
+            ※こちらは継続的な保守・更新予定はありません。コードを<a href='https://github.com/eshimagure/ygo_ocg_modelSheetsSearch'>GitHub</a>に公開しているので保守・更新したい方はクローンして下さい。
         </p>
 
         {/* ////////// メイン部分 ////////// */}
