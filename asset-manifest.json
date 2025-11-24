@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ygo_ocg_modelSheetsSearch/static/css/main.4b4f4a90.css",
-    "main.js": "/ygo_ocg_modelSheetsSearch/static/js/main.98b68907.js",
+    "main.js": "/ygo_ocg_modelSheetsSearch/static/js/main.f121918a.js",
     "static/js/488.f7d88c1f.chunk.js": "/ygo_ocg_modelSheetsSearch/static/js/488.f7d88c1f.chunk.js",
     "index.html": "/ygo_ocg_modelSheetsSearch/index.html",
     "main.4b4f4a90.css.map": "/ygo_ocg_modelSheetsSearch/static/css/main.4b4f4a90.css.map",
-    "main.98b68907.js.map": "/ygo_ocg_modelSheetsSearch/static/js/main.98b68907.js.map",
+    "main.f121918a.js.map": "/ygo_ocg_modelSheetsSearch/static/js/main.f121918a.js.map",
     "488.f7d88c1f.chunk.js.map": "/ygo_ocg_modelSheetsSearch/static/js/488.f7d88c1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4f4a90.css",
-    "static/js/main.98b68907.js"
+    "static/js/main.f121918a.js"
   ]
 }
