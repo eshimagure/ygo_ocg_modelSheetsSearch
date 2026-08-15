@@ -133,6 +133,19 @@ const imageData = [
 {id:'128',name:'エルフェンノーツ',ruby:'えるふぇんのーつ',date:'2025-10-23',imageUrl:'https://pbs.twimg.com/media/G30wZxDXgAAoSW6.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/1981329764154822923?s=20',type:'魔法使い',theme:'',theme2:''},
 {id:'129',name:'神芸なる知恵の乙女',ruby:'あるとめぎあ＝のんふぃにーと',date:'2025-10-23',imageUrl:'https://pbs.twimg.com/media/G30wa_1XoAAmTgm.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/1981329764154822923?s=20',type:'幻想魔',theme:'',theme2:''},
 {id:'130',name:'K９－EX “Ripper／M”',ruby:'けーないん－いーえっくす“りっぱー／みれにあ”',date:'2025-10-24',imageUrl:'https://pbs.twimg.com/media/G30xEdoXUAAEl2J.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/1981692154029232428?s=20',type:'獣',theme:'',theme2:''},
+{id:'131',name:'キラーチューン・ロタリー',ruby:'きらーちゅーん・ろたりー',date:'2026-01-18',imageUrl:'https://pbs.twimg.com/media/G-qyCLDbQAA2VeP.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2012857508252074341?s=20',type:'サイバース',theme:'',theme2:''},
+{id:'132',name:'四花繚乱の霊使い',ruby:'しかりょうらんのれいつかい',date:'2026-01-19',imageUrl:'https://pbs.twimg.com/media/G-q_qC-bQAAdNev.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2013219897518542946?s=20',type:'魔法使い',theme:'',theme2:''},
+{id:'133',name:'道化の一座 フレア',ruby:'くらうん・くらん　ふれあ',date:'2026-01-20',imageUrl:'https://pbs.twimg.com/media/G-q0wBvaIAAwNeR.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2013582287321866612?s=20',type:'獣戦士',theme:'',theme2:''},
+{id:'134',name:'道化の一座 ホワイトフェイス',ruby:'くらうん・くらん　ほわいとふぇいす',date:'2026-01-20',imageUrl:'https://pbs.twimg.com/media/G-q0vAfb0AAuAo1.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2013582287321866612?s=20',type:'幻想魔',theme:'',theme2:''},
+{id:'135',name:'道化の一座 ドリッシュ',ruby:'くらうん・くらん　どりっしゅ',date:'2026-04-19',imageUrl:'https://pbs.twimg.com/media/HGFCFB0aEAAqoo4.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2045834797788921978?s=20',type:'獣戦士',theme:'',theme2:''},
+{id:'136',name:'予幻なき日々のまぼろし',ruby:'ぱすと・らる・ておりあらいず',date:'2026-04-20',imageUrl:'https://pbs.twimg.com/media/HGFFKATa0AABpTd.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2046197190603821073?s=20',type:'魔法',theme:'',theme2:''},
+{id:'137',name:'サージ・ブリッツクリーク',ruby:'さーじ・ぶりっつくりーく',date:'2026-04-21',imageUrl:'https://pbs.twimg.com/media/HGFFmW5aIAAePyE.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2046559580872941875?s=20',type:'雷',theme:'',theme2:''},
+{id:'138',name:'天空城塞クーロン',ruby:'ぱすと・らる・ておりあらいず',date:'2026-04-21',imageUrl:'https://pbs.twimg.com/media/HGFFlPfagAABzhw.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2046559580872941875?s=20',type:'魔法',theme:'',theme2:''},
+{id:'139',name:'白魔女ディアベルゼ',ruby:'しろまじょでぃあべるぜ',date:'2026-07-10',imageUrl:'https://pbs.twimg.com/media/HM3P4fvagAAyacC.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2075543579104276593?s=20',type:'幻想魔',theme:'',theme2:''},
+{id:'140',name:'黒魔女ディアベルスター',ruby:'くろまじょでぃあべるすたー',date:'2026-07-10',imageUrl:'https://pbs.twimg.com/media/HM3P4fiawAAmEKl.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2075543579104276593?s=20',type:'魔法使い',theme:'',theme2:''},
+{id:'141',name:'アトランティスの戦将',ruby:'あとらんてぃすのせんしょう',date:'2026-07-12',imageUrl:'https://pbs.twimg.com/media/HMmWbzBakAAZEij.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2076275386221228397?s=20',type:'海竜',theme:'',theme2:''},
+{id:'142',name:'鬼神 朱沙之王',ruby:'あしゅとらーじゃ　すさのお',date:'2026-07-14',imageUrl:'https://pbs.twimg.com/media/HMmXhxebYAEToRz.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2077000160501281133?s=20',type:'悪魔',theme:'',theme2:''},
+{id:'143',name:'金神の戦鬼 アカスナ',ruby:'こんじんのあしゅとら　あかすな',date:'2026-07-14',imageUrl:'https://pbs.twimg.com/media/HMmXgs0aYAA9laN.jpg:large',url:'https://x.com/YuGiOh_OCG_INFO/status/2077000160501281133?s=20',type:'悪魔',theme:'',theme2:''},
 ]
 export default imageData;
 
